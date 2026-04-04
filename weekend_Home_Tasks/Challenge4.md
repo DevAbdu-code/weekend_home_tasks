@@ -60,7 +60,7 @@ Confirmed suspicions about an intern (IEUser) checking for administrative access
 ## 📷 Investigation Screenshots
 
 ### 🔹 Step 1: PowerShell Downgrade Found (ID 400)
-![PowerShell Downgrade](powershell_downgrade.png)
+![PowerShell Downgrade](powershell_downgrade.PNG)
 
 ### 🔹 Step 2: Log Clear Record ID (XML View)
 ![Record ID](record%20ID.png)
